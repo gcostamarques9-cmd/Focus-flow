@@ -1,0 +1,7 @@
+{
+  "name": "FocusFlow - App de Estudos Inteligente",
+  "description": "Uma plataforma completa para estudantes com cronograma, pomodoro, metas diárias e análise de progresso assistida por IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
